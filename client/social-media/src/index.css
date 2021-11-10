@@ -1,0 +1,46 @@
+
+body,html,#root {
+    height: 100%;
+    min-height: 100vh;
+   
+}
+
+textarea { 
+    resize: none;
+}
+
+.logo{
+    height:40px;
+}
+
+.icon-btn{
+    cursor: pointer;
+}
+
+.like-after{
+    color:red;
+}
+
+.profile-pic-xs{
+    height:40px;
+    width: 40px;
+    object-fit: cover;
+}
+
+.profile-pic{
+    height:50px;
+    width: 50px;
+    object-fit: cover;
+}
+
+.profile-pic-lg{
+    height:100px;
+    width: 100px;
+    object-fit: cover;
+}
+
+.post-pic{
+    height:250px;
+    width: 250px;
+    object-fit: cover;
+}
